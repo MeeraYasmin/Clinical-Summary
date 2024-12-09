@@ -1,0 +1,203 @@
+{
+  "Patient": {
+    "id": "123456",
+    "name": "John Doe",
+    "age": 44,
+    "gender": "male",
+    "birthDate": "Not specified",
+    "address": "Not specified",
+    "contact": "Not specified",
+    "otherDemographicDetails": {
+      "chiefComplaint": "Epigastric discomfort, nausea, occasional vomiting",
+      "historyOfPresentIllness": {
+        "duration": "2 weeks",
+        "symptoms": [
+          "Epigastric discomfort",
+          "Nausea",
+          "Occasional vomiting",
+          "Burning sensation in epigastric area worsened by meals, especially spicy or acidic foods",
+          "Unintentional weight loss of 8 pounds over the last month"
+        ]
+      },
+      "pastMedicalHistory": [
+        "Well-controlled hypertension",
+        "Mild gastroesophageal reflux disease (GERD) with occasional antacid use"
+      ],
+      "familyMedicalHistory": "Not specified",
+      "socialHistory": "Not specified"
+    }
+  },
+  "Observation": {
+    "id": "789012",
+    "status": "final",
+    "code": "Mild anemia (hemoglobin 11.2 g/dL)",
+    "subject": "Patient: John Doe",
+    "effectiveDateTime": "Not specified",
+    "value": "Not specified",
+    "interpretation": "Not specified",
+    "related": "Not specified"
+  },
+  "Practitioner": {
+    "id": "345678",
+    "name": "Not specified",
+    "identifier": "Not specified",
+    "qualification": "Not specified",
+    "contact": "Not specified"
+  },
+  "AllergyIntolerance": {
+    "id": "234567",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": "Not specified",
+    "patient": "John Doe",
+    "onset": "Not specified",
+    "note": "Not specified",
+    "reaction": "Not specified"
+  },
+  "Problem": {
+    "id": "456789",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": "Peptic ulcer disease (PUD) likely caused by Helicobacter pylori infection",
+    "severity": "Not specified",
+    "patient": "John Doe",
+    "onset": "Not specified",
+    "note": "Not specified",
+    "evidence": "Not specified"
+  },
+  "Procedure": {
+    "id": "567890",
+    "status": "completed",
+    "code": "Upper endoscopy",
+    "subject": "Patient: John Doe",
+    "performed": "November 21, 2024",
+    "performer": "Not specified",
+    "location": "Not specified",
+    "note": "Not specified"
+  },
+  "FamilyMemberHistory": {
+    "id": "678901",
+    "patient": "John Doe",
+    "relationship": "Not specified",
+    "conditions": "Not specified",
+    "note": "Not specified"
+  },
+  "MedicationStatement": {
+    "id": "890123",
+    "status": "active",
+    "medication": [
+      {
+        "name": "Pantoprazole",
+        "strength": "40 mg",
+        "subject": "John Doe",
+        "effective": "Not specified",
+        "dateAsserted": "Not specified",
+        "informationSource": "Not specified",
+        "reason": "Not specified",
+        "dosageInformation": {
+          "renderedDosageInstruction": "Take 1 tablet daily for acid suppression",
+          "doseQuantity": {
+            "value": 40,
+            "unit": "mg",
+            "system": "Not specified",
+            "code": "Not specified"
+          },
+          "frequency": "Once daily",
+          "route": "Oral",
+          "timing": "Not specified",
+          "doseAndRate": "Not specified"
+        }
+      },
+      {
+        "name": "Clarithromycin",
+        "strength": "500 mg",
+        "subject": "John Doe",
+        "effective": "Not specified",
+        "dateAsserted": "Not specified",
+        "informationSource": "Not specified",
+        "reason": "Not specified",
+        "dosageInformation": {
+          "renderedDosageInstruction": "Take 1 tablet twice daily for H. pylori eradication",
+          "doseQuantity": {
+            "value": 500,
+            "unit": "mg",
+            "system": "Not specified",
+            "code": "Not specified"
+          },
+          "frequency": "Twice daily",
+          "route": "Oral",
+          "timing": "Not specified",
+          "doseAndRate": "Not specified"
+        }
+      },
+      {
+        "name": "Amoxicillin",
+        "strength": "1 g",
+        "subject": "John Doe",
+        "effective": "Not specified",
+        "dateAsserted": "Not specified",
+        "informationSource": "Not specified",
+        "reason": "Not specified",
+        "dosageInformation": {
+          "renderedDosageInstruction": "Take 1 tablet twice daily for H. pylori eradication",
+          "doseQuantity": {
+            "value": 1,
+            "unit": "g",
+            "system": "Not specified",
+            "code": "Not specified"
+          },
+          "frequency": "Twice daily",
+          "route": "Oral",
+          "timing": "Not specified",
+          "doseAndRate": "Not specified"
+        }
+      },
+      {
+        "name": "Ferrous sulfate",
+        "strength": "325 mg",
+        "subject": "John Doe",
+        "effective": "Not specified",
+        "dateAsserted": "Not specified",
+        "informationSource": "Not specified",
+        "reason": "Not specified",
+        "dosageInformation": {
+          "renderedDosageInstruction": "Take 1 tablet daily for mild anemia",
+          "doseQuantity": {
+            "value": 325,
+            "unit": "mg",
+            "system": "Not specified",
+            "code": "Not specified"
+          },
+          "frequency": "Once daily",
+          "route": "Oral",
+          "timing": "Not specified",
+          "doseAndRate": "Not specified"
+        }
+      }
+    ]
+  },
+  "CarePlan": {
+    "id": "901234",
+    "status": "active",
+    "intent": "plan",
+    "category": "Not specified",
+    "subject": "John Doe",
+    "description": "Treatment plan for Peptic Ulcer Disease",
+    "period": "Not specified",
+    "activity": {
+      "steps": [
+        "Take prescribed medications as directed",
+        "Follow bland, low-acid diet, avoiding irritants",
+        "Practice stress management techniques",
+        "Attend follow-up visit in 2 weeks"
+      ],
+      "medications": [
+        "Pantoprazole",
+        "Clarithromycin",
+        "Amoxicillin",
+        "Ferrous sulfate"
+      ],
+      "followUps": "Not specified"
+    }
+  }
+}
