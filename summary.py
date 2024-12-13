@@ -12,7 +12,7 @@ llm = ChatOpenAI(
 )
 
 # Read the content of the uploaded medical data file
-with open("medical_data7.txt", "r") as file:
+with open("medical_data.txt", "r") as file:
     medical_data = file.read()
 
 # Define a prompt to extract clinical data summary
@@ -56,6 +56,6 @@ print("Comprehensive Medical Summary:")
 print(response.content)
 
 # Optionally save the output to a file
-with open("Summary_data7.txt", "w") as file:
+with open("Summary_data.txt", "w") as file:
     file.write(response.content)
 
