@@ -1,0 +1,144 @@
+{
+  "Patient": {
+    "id": "123456",
+    "name": "Emily Carter",
+    "age": 16,
+    "gender": "female",
+    "birthDate": "Not specified",
+    "address": "Not specified",
+    "contact": "Not specified",
+    "otherDemographicDetails": {
+      "chiefComplaint": "Evaluation and surgical management of progressive thoracolumbar scoliosis",
+      "historyOfPresentIllness": {
+        "detectedAtAge": 12,
+        "symptoms": [
+          "Worsening back pain exacerbated by standing or physical activity",
+          "Changes in posture",
+          "Right shoulder higher than left",
+          "Clothing no longer fitting symmetrically"
+        ],
+        "neurologicalSymptoms": "Denies"
+      },
+      "pastMedicalHistory": {
+        "surgicalHistory": "No prior surgeries",
+        "chronicIllnesses": "None",
+        "familyHistory": "No family history of scoliosis or spinal deformities",
+        "menarche": "Reached at age 13",
+        "risserScore": 3
+      }
+    }
+  },
+  "Observation": {
+    "id": "789012",
+    "status": "final",
+    "code": "Scoliosis Evaluation",
+    "subject": "Patient/123456",
+    "effectiveDateTime": "2022-01-01T08:00:00Z",
+    "value": {
+      "quantity": {
+        "value": 52,
+        "unit": "degrees"
+      }
+    },
+    "interpretation": "Not specified",
+    "related": "Not specified"
+  },
+  "Practitioner": {
+    "id": "345678",
+    "name": "Dr. Smith",
+    "identifier": "Not specified",
+    "qualification": "Not specified",
+    "contact": "Not specified"
+  },
+  "AllergyIntolerance": {
+    "id": "234567",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": "Not specified",
+    "patient": "Patient/123456",
+    "onset": "Not specified",
+    "note": "Not specified",
+    "reaction": "Not specified"
+  },
+  "Problem": {
+    "id": "456789",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": "Idiopathic adolescent scoliosis",
+    "severity": "Not specified",
+    "patient": "Patient/123456",
+    "onset": "Not specified",
+    "note": "Not specified",
+    "evidence": "Not specified"
+  },
+  "Procedure": {
+    "id": "567890",
+    "status": "completed",
+    "code": "Posterior spinal fusion with instrumentation",
+    "subject": "Patient/123456",
+    "performedDateTime": "2022-02-01T08:00:00Z",
+    "performer": "Practitioner/345678",
+    "location": "Not specified",
+    "note": "Not specified"
+  },
+  "FamilyMemberHistory": {
+    "id": "678901",
+    "patient": "Patient/123456",
+    "relationship": "Not specified",
+    "conditions": "No family history of scoliosis or spinal deformities",
+    "note": "Not specified"
+  },
+  "MedicationStatement": {
+    "id": "890123",
+    "status": "active",
+    "medication": {
+      "name": "Acetaminophen",
+      "strength": "Not specified"
+    },
+    "subject": "Patient/123456",
+    "effectiveDateTime": "2022-02-01T08:00:00Z",
+    "dateAsserted": "2022-02-01T08:00:00Z",
+    "informationSource": "Not specified",
+    "reason": "Not specified",
+    "dosageInstruction": {
+      "renderedDosageInstruction": "Take as directed",
+      "doseQuantity": {
+        "value": 1,
+        "unit": "tablet",
+        "system": "Not specified",
+        "code": "Not specified"
+      },
+      "frequency": "Not specified",
+      "route": "Not specified",
+      "timing": "Not specified",
+      "doseAndRate": "Not specified"
+    }
+  },
+  "CarePlan": {
+    "id": "901234",
+    "status": "active",
+    "intent": "plan",
+    "category": "Not specified",
+    "subject": "Patient/123456",
+    "description": "Surgical correction and postoperative care plan",
+    "period": "Not specified",
+    "activity": {
+      "steps": [
+        "Physical therapy",
+        "Thoracolumbar brace support",
+        "Detailed postoperative care instructions",
+        "Prescription for outpatient physical therapy"
+      ],
+      "medications": [
+        "Acetaminophen",
+        "Ketorolac",
+        "Morphine",
+        "Oxycodone"
+      ],
+      "followUps": [
+        "Follow-up visits at 2 weeks, 3 months, 6 months, and 1 year post-discharge",
+        "Resuming light activities after 6 months, competitive sports after 9-12 months if cleared"
+      ]
+    }
+  }
+}

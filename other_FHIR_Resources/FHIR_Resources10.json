@@ -1,0 +1,106 @@
+{
+  "Patient": {
+    "id": "123456",
+    "name": "Michael Grant",
+    "age": 37,
+    "gender": "male",
+    "birthDate": "Not specified",
+    "address": "Not specified",
+    "contact": "Not specified",
+    "other_demographic_details": "Not specified"
+  },
+  "Observation": {
+    "id": "789012",
+    "status": "final",
+    "code": "Rattlesnake envenomation",
+    "subject": "Patient/123456",
+    "effectiveDateTime": "Not specified",
+    "effectivePeriod": "Not specified",
+    "value[x]": "Envenomation confirmed by venom detection assay",
+    "interpretation": "Not specified",
+    "related": "Not specified"
+  },
+  "Practitioner": {
+    "id": "345678",
+    "name": "Not specified",
+    "identifier": "Not specified",
+    "qualification": "Not specified",
+    "contact": "Not specified"
+  },
+  "AllergyIntolerance": {
+    "id": "567890",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": "Not specified",
+    "patient": "Patient/123456",
+    "onset[x]": "Not specified",
+    "note": "Not specified",
+    "reaction": "Not specified"
+  },
+  "Problem": {
+    "id": "234567",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": "Rattlesnake envenomation",
+    "severity": "Not specified",
+    "patient": "Patient/123456",
+    "onset[x]": "Not specified",
+    "note": "Not specified",
+    "evidence": "Not specified"
+  },
+  "Procedure": {
+    "id": "901234",
+    "status": "completed",
+    "code": "Venom detection assay",
+    "subject": "Patient/123456",
+    "performed[x]": "Not specified",
+    "performer": "Not specified",
+    "location": "Not specified",
+    "note": "Not specified"
+  },
+  "FamilyMemberHistory": {
+    "id": "456789",
+    "patient": "Patient/123456",
+    "relationship": "Not specified",
+    "conditions": "Not specified",
+    "note": "Not specified"
+  },
+  "MedicationStatement": {
+    "id": "678901",
+    "status": "active",
+    "medication": {
+      "name": "CroFab antivenom",
+      "strength": "Not specified"
+    },
+    "subject": "Patient/123456",
+    "effective[x]": "Not specified",
+    "dateAsserted": "Not specified",
+    "informationSource": "Not specified",
+    "reason": "Not specified",
+    "renderedDosageInstruction": "Not specified",
+    "doseQuantity": {
+      "value": "Not specified",
+      "unit": "Not specified",
+      "system": "Not specified",
+      "code": "Not specified"
+    },
+    "frequency": "Not specified",
+    "route": "Not specified",
+    "timing": "Not specified",
+    "doseAndRate": "Not specified"
+  },
+  "CarePlan": {
+    "id": "789012",
+    "status": "active",
+    "intent": "plan",
+    "category": "Not specified",
+    "subject": "Patient/123456",
+    "description": "Snake bite treatment plan",
+    "period": "Not specified",
+    "activity": {
+      "steps": "Wound care with topical antibiotic ointment, Limb immobilization and elevation, Snake safety education",
+      "medications": "CroFab antivenom, IV morphine, Oral cephalexin, Acetaminophen",
+      "followUps": "Follow-up with primary care physician"
+    }
+  }
+}

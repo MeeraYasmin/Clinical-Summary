@@ -1,0 +1,120 @@
+{
+  "Patient": {
+    "id": "12345",
+    "name": "Jane Smith",
+    "age": 52,
+    "gender": "female",
+    "birthDate": "Not specified",
+    "address": "Not specified",
+    "contact": "Not specified",
+    "otherDemographicDetails": {
+      "chiefComplaint": "Abnormal vaginal bleeding, post-coital spotting, pelvic pain, fatigue, urinary symptoms, unintentional weight loss",
+      "historyOfPresentIllness": "3-month history of abnormal vaginal bleeding and pelvic pain",
+      "pastMedicalHistory": {
+        "hypertension": "Chronic hypertension controlled with lisinopril",
+        "smokingHistory": "Significant smoking history of 20 pack-years, quit smoking 5 years ago",
+        "hpvInfection": "High-risk HPV infection identified in a Pap smear 7 years ago"
+      },
+      "familyMedicalHistory": "Denies family history of gynecological cancers",
+      "socialHistory": {
+        "smokingStatus": "Former smoker with a significant smoking history",
+        "accessToCare": "Limited access to care for routine follow-up screenings"
+      }
+    }
+  },
+  "Observation": {
+    "id": "54321",
+    "status": "final",
+    "code": "Abnormal vaginal bleeding, post-coital spotting, pelvic pain, fatigue, urinary symptoms, unintentional weight loss",
+    "subject": "Patient: Jane Smith",
+    "effectiveDateTime": "2022-01-01T08:00:00Z",
+    "value[x]": "Not specified",
+    "interpretation": "Not specified",
+    "related": "Not specified"
+  },
+  "Practitioner": {
+    "id": "67890",
+    "name": "Oncology Team",
+    "identifier": "Not specified",
+    "qualification": "Not specified",
+    "contact": "Not specified"
+  },
+  "AllergyIntolerance": {
+    "id": "24680",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": "No known allergies",
+    "patient": "Jane Smith",
+    "onset[x]": "Not specified",
+    "note": "Not specified",
+    "reaction": "Not specified"
+  },
+  "Problem": {
+    "id": "13579",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": "Stage IIB cervical cancer",
+    "severity": "Not specified",
+    "patient": "Jane Smith",
+    "onset[x]": "Not specified",
+    "note": "Not specified",
+    "evidence": "Not specified"
+  },
+  "Procedure": {
+    "id": "97531",
+    "status": "completed",
+    "code": "External beam radiation therapy and brachytherapy",
+    "subject": "Patient: Jane Smith",
+    "performed[x]": "2022-02-01T08:00:00Z",
+    "performer": "Not specified",
+    "location": "Not specified",
+    "note": "Not specified"
+  },
+  "FamilyMemberHistory": {
+    "id": "11223",
+    "patient": "Jane Smith",
+    "relationship": "Not specified",
+    "conditions": "Not specified",
+    "note": "Not specified"
+  },
+  "MedicationStatement": {
+    "id": "45678",
+    "status": "active",
+    "medication": {
+      "name": "Lisinopril",
+      "strength": "Not specified"
+    },
+    "subject": "Jane Smith",
+    "effective[x]": "Not specified",
+    "dateAsserted": "Not specified",
+    "informationSource": "Not specified",
+    "reason": "Not specified",
+    "dosageInformation": {
+      "renderedDosageInstruction": "Not specified",
+      "doseQuantity": {
+        "value": "Not specified",
+        "unit": "Not specified",
+        "system": "Not specified",
+        "code": "Not specified"
+      },
+      "frequency": "Not specified",
+      "route": "Not specified",
+      "timing": "Not specified",
+      "doseAndRate": "Not specified"
+    }
+  },
+  "CarePlan": {
+    "id": "78901",
+    "status": "active",
+    "intent": "plan",
+    "category": "Not specified",
+    "subject": "Jane Smith",
+    "description": "Concurrent chemoradiation therapy",
+    "period": "Not specified",
+    "activity": {
+      "steps": "Not specified",
+      "medications": ["Lisinopril", "Cisplatin", "Ondansetron", "Loperamide"],
+      "followUps": "Not specified"
+    }
+  }
+}

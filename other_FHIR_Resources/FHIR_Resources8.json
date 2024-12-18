@@ -1,0 +1,130 @@
+{
+  "Patient": {
+    "id": "123456",
+    "name": "Ethan Parker",
+    "age": 5,
+    "gender": "male",
+    "birthDate": "2019-11-20",
+    "address": "Not specified",
+    "contact": "Not specified",
+    "other_demographic_details": {
+      "date_of_admission": "2024-11-20"
+    }
+  },
+  "Observation": {
+    "id": "789012",
+    "status": "final",
+    "code": "Body Temperature",
+    "subject": {
+      "reference": "Patient/123456"
+    },
+    "effectiveDateTime": "2024-11-28T08:00:00Z",
+    "valueQuantity": {
+      "value": 102,
+      "unit": "Fahrenheit"
+    },
+    "interpretation": "Not specified",
+    "related": "Not specified"
+  },
+  "Practitioner": {
+    "id": "345678",
+    "name": "Dr. Smith",
+    "identifier": "Not specified",
+    "qualification": "Pediatric Hematologist",
+    "contact": "Not specified"
+  },
+  "AllergyIntolerance": {
+    "id": "567890",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": "Not specified",
+    "patient": {
+      "reference": "Patient/123456"
+    },
+    "onsetDateTime": "Not specified",
+    "note": "Not specified",
+    "reaction": "Not specified"
+  },
+  "Problem": {
+    "id": "234567",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": "Anemia",
+    "severity": "Moderate",
+    "patient": {
+      "reference": "Patient/123456"
+    },
+    "onsetDateTime": "2024-10-20",
+    "note": "No reports of rashes, bleeding, or bruising",
+    "evidence": "Not specified"
+  },
+  "Procedure": {
+    "id": "901234",
+    "status": "completed",
+    "code": "Needle Removal",
+    "subject": {
+      "reference": "Patient/123456"
+    },
+    "performedDateTime": "2024-11-25T10:00:00Z",
+    "performer": {
+      "reference": "Practitioner/345678"
+    },
+    "location": "Operating Room",
+    "note": "Not specified"
+  },
+  "FamilyMemberHistory": {
+    "id": "456789",
+    "patient": {
+      "reference": "Patient/123456"
+    },
+    "relationship": "Not specified",
+    "conditions": "Not specified",
+    "note": "Not specified"
+  },
+  "MedicationStatement": {
+    "id": "678901",
+    "status": "active",
+    "medication": {
+      "name": "Ceftriaxone",
+      "strength": "50 mg/kg",
+      "doseForm": "IV",
+      "route": "Once daily"
+    },
+    "subject": {
+      "reference": "Patient/123456"
+    },
+    "effectiveDateTime": "2024-11-20",
+    "dateAsserted": "2024-11-20",
+    "informationSource": "Not specified",
+    "reason": "Not specified",
+    "dosageInstruction": {
+      "renderedDosageInstruction": "Not specified",
+      "doseQuantity": {
+        "value": 50,
+        "unit": "mg/kg",
+        "system": "Not specified",
+        "code": "Not specified"
+      },
+      "frequency": "Once daily",
+      "route": "IV",
+      "timing": "Not specified",
+      "doseAndRate": "Not specified"
+    }
+  },
+  "CarePlan": {
+    "id": "789012",
+    "status": "active",
+    "intent": "plan",
+    "category": "treatment",
+    "subject": {
+      "reference": "Patient/123456"
+    },
+    "description": "Nutritional Support and Antibiotic Treatment",
+    "period": "Not specified",
+    "activity": {
+      "steps": "High-calorie, protein-rich snacks",
+      "medications": "Ceftriaxone, Fluconazole, Amoxicillin-Clavulanate, Acetaminophen",
+      "followUps": "Follow-up appointments with specialists"
+    }
+  }
+}

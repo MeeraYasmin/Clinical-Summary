@@ -1,0 +1,113 @@
+{
+  "Patient": {
+    "id": "123456",
+    "name": "Margaret Taylor",
+    "age": 70,
+    "gender": "female",
+    "birthDate": "Not specified",
+    "address": "Not specified",
+    "contact": "Not specified",
+    "otherDemographicDetails": {
+      "chiefComplaint": "Evaluation and management of poorly controlled type 2 diabetes, chronic back pain due to osteoporosis, progressive dental decay, and worsening difficulty with ambulation"
+    }
+  },
+  "Observation": {
+    "id": "789012",
+    "status": "final",
+    "code": "Not specified",
+    "subject": "Patient/123456",
+    "effectiveDateTime": "Not specified",
+    "effectivePeriod": "Not specified",
+    "value[x]": "Not specified",
+    "interpretation": "Not specified",
+    "related": "Not specified"
+  },
+  "Practitioner": {
+    "id": "345678",
+    "name": "Not specified",
+    "identifier": "Not specified",
+    "qualification": "Not specified",
+    "contact": "Not specified"
+  },
+  "AllergyIntolerance": {
+    "id": "567890",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": "Not specified",
+    "patient": "Patient/123456",
+    "onset[x]": "Not specified",
+    "note": "Not specified",
+    "reaction": "Not specified"
+  },
+  "Problem": {
+    "id": "234567",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": "Not specified",
+    "severity": "Not specified",
+    "patient": "Patient/123456",
+    "onset[x]": "Not specified",
+    "note": "Not specified",
+    "evidence": "Not specified"
+  },
+  "Procedure": {
+    "id": "901234",
+    "status": "completed",
+    "code": "Not specified",
+    "subject": "Patient/123456",
+    "performed[x]": "Not specified",
+    "performer": "Not specified",
+    "location": "Not specified",
+    "note": "Not specified"
+  },
+  "FamilyMemberHistory": {
+    "id": "456789",
+    "patient": "Patient/123456",
+    "relationship": "Not specified",
+    "conditions": "Not specified",
+    "note": "Not specified"
+  },
+  "MedicationStatement": {
+    "id": "678901",
+    "status": "active",
+    "medication": {
+      "name": "Insulin glargine",
+      "strength": "10 units",
+      "doseAndRate": {
+        "value": 10,
+        "unit": "units",
+        "system": "Not specified",
+        "code": "Not specified"
+      }
+    },
+    "subject": "Patient/123456",
+    "effective[x]": "Not specified",
+    "dateAsserted": "Not specified",
+    "informationSource": "Not specified",
+    "reason": "Not specified",
+    "renderedDosageInstruction": "Take 10 units nightly",
+    "doseQuantity": {
+      "value": 10,
+      "unit": "units",
+      "system": "Not specified",
+      "code": "Not specified"
+    },
+    "frequency": "Not specified",
+    "route": "Not specified",
+    "timing": "Not specified"
+  },
+  "CarePlan": {
+    "id": "789012",
+    "status": "active",
+    "intent": "plan",
+    "category": "Not specified",
+    "subject": "Patient/123456",
+    "description": "Not specified",
+    "period": "Not specified",
+    "activity": {
+      "steps": "Not specified",
+      "medications": ["Insulin glargine", "Metformin", "Calcium supplement with vitamin D", "Zoledronic acid infusion"],
+      "followUps": "Not specified"
+    }
+  }
+}

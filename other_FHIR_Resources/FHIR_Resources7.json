@@ -1,0 +1,432 @@
+{
+  "Patient": {
+    "id": "123456",
+    "name": [
+      {
+        "use": "official",
+        "text": "Jessica Harper"
+      }
+    ],
+    "gender": "female",
+    "birthDate": "Not specified",
+    "address": [
+      {
+        "use": "home",
+        "text": "Not specified"
+      }
+    ],
+    "contact": [
+      {
+        "relationship": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/v2-0131",
+                "code": "PRN",
+                "display": "Parent"
+              }
+            ]
+          }
+        ],
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "Not specified",
+            "use": "mobile"
+          }
+        ]
+      }
+    ],
+    "age": {
+      "value": 31,
+      "unit": "years",
+      "system": "http://unitsofmeasure.org",
+      "code": "a"
+    },
+    "demographicDetails": {
+      "weight": "Not specified",
+      "height": "Not specified",
+      "bodyMassIndex": "Not specified",
+      "maritalStatus": "Not specified",
+      "religion": "Not specified",
+      "race": "Not specified",
+      "ethnicity": "Not specified",
+      "language": "Not specified"
+    }
+  },
+  "Observation": {
+    "id": "789012",
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "system": "http://loinc.org",
+          "code": "72166-2",
+          "display": "Anxiety severity"
+        }
+      ]
+    },
+    "subject": {
+      "reference": "Patient/123456"
+    },
+    "effectiveDateTime": "2022-01-01T00:00:00Z",
+    "valueString": "Persistent anxiety, frequent flashbacks, sleep disturbances",
+    "interpretation": {
+      "coding": [
+        {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-ObservationInterpretation",
+          "code": "H",
+          "display": "High"
+        }
+      ]
+    },
+    "related": [
+      {
+        "type": "has-component",
+        "target": {
+          "reference": "Observation/789013"
+        }
+      }
+    ]
+  },
+  "Practitioner": {
+    "id": "345678",
+    "name": [
+      {
+        "use": "official",
+        "text": "Not specified"
+      }
+    ],
+    "identifier": [
+      {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "1234567890"
+      }
+    ],
+    "qualification": [
+      {
+        "identifier": {
+          "system": "http://terminology.hl7.org/CodeSystem/v2-0360",
+          "value": "MD"
+        }
+      }
+    ],
+    "contact": [
+      {
+        "system": "phone",
+        "value": "Not specified",
+        "use": "work"
+      }
+    ]
+  },
+  "AllergyIntolerance": {
+    "id": "567890",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "409137002",
+          "display": "Benzodiazepine allergy"
+        }
+      ]
+    },
+    "patient": {
+      "reference": "Patient/123456"
+    },
+    "onsetDateTime": "2010-01-01T00:00:00Z",
+    "note": "Occasional use reported",
+    "reaction": [
+      {
+        "manifestation": [
+          {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "247472004",
+                "display": "Dizziness"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Problem": {
+    "id": "234567",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "162864005",
+          "display": "Post-traumatic stress disorder"
+        }
+      ]
+    },
+    "severity": {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "6736007",
+          "display": "Mild"
+        }
+      ]
+    },
+    "patient": {
+      "reference": "Patient/123456"
+    },
+    "onsetDateTime": "2000-01-01T00:00:00Z",
+    "note": "Complicated by disordered eating patterns",
+    "evidence": [
+      {
+        "detail": [
+          {
+            "reference": "Observation/789012"
+          }
+        ]
+      }
+    ]
+  },
+  "Procedure": {
+    "id": "456789",
+    "status": "completed",
+    "code": {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "Not specified",
+          "display": "Not specified"
+        }
+      ]
+    },
+    "subject": {
+      "reference": "Patient/123456"
+    },
+    "performedDateTime": "Not specified",
+    "performer": [
+      {
+        "actor": {
+          "reference": "Practitioner/345678"
+        }
+      }
+    ],
+    "location": {
+      "reference": "Location/Not specified"
+    },
+    "note": "Not specified"
+  },
+  "FamilyMemberHistory": {
+    "id": "678901",
+    "patient": {
+      "reference": "Patient/123456"
+    },
+    "relationship": {
+      "coding": [
+        {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-RoleCode",
+          "code": "FTH",
+          "display": "Father"
+        }
+      ]
+    },
+    "conditions": [
+      {
+        "code": {
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "Not specified",
+              "display": "Not specified"
+            }
+          ]
+        }
+      }
+    ],
+    "note": "Not specified"
+  },
+  "MedicationStatement": {
+    "id": "890123",
+    "status": "active",
+    "medication": {
+      "coding": [
+        {
+          "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+          "code": "1124305",
+          "display": "Sertraline 50mg tablet"
+        }
+      ]
+    },
+    "subject": {
+      "reference": "Patient/123456"
+    },
+    "effectiveDateTime": "2022-01-01T00:00:00Z",
+    "dateAsserted": "2022-01-01T00:00:00Z",
+    "informationSource": {
+      "reference": "Practitioner/345678"
+    },
+    "reasonCode": {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "Not specified",
+          "display": "Not specified"
+        }
+      ],
+      "text": "Not specified"
+    },
+    "dosage": {
+      "text": "Take 1 tablet daily",
+      "doseAndRate": [
+        {
+          "type": {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/dose-rate-type",
+                "code": "ordered",
+                "display": "Ordered"
+              }
+            ]
+          },
+          "doseQuantity": {
+            "value": 50,
+            "unit": "mg",
+            "system": "http://unitsofmeasure.org",
+            "code": "mg"
+          }
+        }
+      ],
+      "timing": {
+        "repeat": {
+          "frequency": 1,
+          "period": 1,
+          "periodUnit": "d",
+          "boundsPeriod": {
+            "start": "2022-01-01T00:00:00Z"
+          }
+        }
+      },
+      "route": {
+        "coding": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "26643006",
+            "display": "Oral"
+          }
+        ]
+      }
+    }
+  },
+  "CarePlan": {
+    "id": "901234",
+    "status": "active",
+    "intent": "plan",
+    "category": [
+      {
+        "coding": [
+          {
+            "system": "http://terminology.hl7.org/CodeSystem/plan-category",
+            "code": "assess-plan",
+            "display": "Assessment and Plan"
+          }
+        ]
+      }
+    ],
+    "subject": {
+      "reference": "Patient/123456"
+    },
+    "description": "Treatment plan for PTSD and disordered eating",
+    "period": {
+      "start": "2022-01-01T00:00:00Z",
+      "end": "2023-01-01T00:00:00Z"
+    },
+    "activity": [
+      {
+        "detail": {
+          "description": "Take Sertraline 50mg tablet daily",
+          "type": {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "Not specified",
+                "display": "Not specified"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "detail": {
+          "description": "Attend trauma-focused therapy sessions",
+          "type": {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "Not specified",
+                "display": "Not specified"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "detail": {
+          "description": "Follow nutritional consultation for meal plan",
+          "type": {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "Not specified",
+                "display": "Not specified"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "detail": {
+          "description": "Take Cyproheptadine as an appetite stimulant",
+          "type": {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "Not specified",
+                "display": "Not specified"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "detail": {
+          "description": "Attend counseling sessions for body dysmorphia",
+          "type": {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "Not specified",
+                "display": "Not specified"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "detail": {
+          "description": "Establish consistent sleep routine and light physical activity",
+          "type": {
+            "coding": [
+              {
+                "system": "http://snomed.info/sct",
+                "code": "Not specified",
+                "display": "Not specified"
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

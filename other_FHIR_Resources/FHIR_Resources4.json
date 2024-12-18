@@ -1,0 +1,116 @@
+{
+  "Patient": {
+    "id": "123456",
+    "name": "Sarah Miller",
+    "age": 21,
+    "gender": "female",
+    "birthDate": "Not specified",
+    "address": "Not specified",
+    "contact": "Not specified",
+    "otherDemographicDetails": {
+      "BMI": 26.3
+    }
+  },
+  "Observation": {
+    "id": "789012",
+    "status": "final",
+    "code": "Not specified",
+    "subject": "Patient/123456",
+    "effectiveDateTime": "Not specified",
+    "value[x]": {
+      "valueQuantity": {
+        "value": 85,
+        "unit": "ng/dL",
+        "system": "Not specified",
+        "code": "Not specified"
+      }
+    },
+    "interpretation": "Not specified",
+    "related": "Not specified"
+  },
+  "Practitioner": {
+    "id": "345678",
+    "name": "Not specified",
+    "identifier": "Not specified",
+    "qualification": "Not specified",
+    "contact": "Not specified"
+  },
+  "AllergyIntolerance": {
+    "id": "234567",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": "Not specified",
+    "patient": "Patient/123456",
+    "onset[x]": "Not specified",
+    "note": "Not specified",
+    "reaction": "Not specified"
+  },
+  "Problem": {
+    "id": "456789",
+    "clinicalStatus": "active",
+    "verificationStatus": "confirmed",
+    "code": "Polycystic ovary syndrome (PCOS)",
+    "severity": "Not specified",
+    "patient": "Patient/123456",
+    "onset[x]": "Not specified",
+    "note": "Expected gradual improvement in hirsutism over 6-12 months",
+    "evidence": "Not specified"
+  },
+  "Procedure": {
+    "id": "567890",
+    "status": "completed",
+    "code": "Pelvic ultrasound",
+    "subject": "Patient/123456",
+    "performed[x]": "Not specified",
+    "performer": "Not specified",
+    "location": "Not specified",
+    "note": "Not specified"
+  },
+  "FamilyMemberHistory": {
+    "id": "678901",
+    "patient": "Patient/123456",
+    "relationship": "Not specified",
+    "conditions": "Not specified",
+    "note": "No family history of hirsutism, endocrine disorders, or early balding in female relatives"
+  },
+  "MedicationStatement": {
+    "id": "789012",
+    "status": "active",
+    "medication": {
+      "name": "Combination oral contraceptive pill (ethinyl estradiol and drospirenone)",
+      "strength": "Not specified"
+    },
+    "subject": "Patient/123456",
+    "effective[x]": "Not specified",
+    "dateAsserted": "Not specified",
+    "informationSource": "Not specified",
+    "reason": "Not specified",
+    "dosageInstruction": {
+      "renderedDosageInstruction": "Not specified",
+      "doseQuantity": {
+        "value": 100,
+        "unit": "mg",
+        "system": "Not specified",
+        "code": "Not specified"
+      },
+      "frequency": "Not specified",
+      "route": "Not specified",
+      "timing": "Not specified",
+      "doseAndRate": "Not specified"
+    }
+  },
+  "CarePlan": {
+    "id": "890123",
+    "status": "active",
+    "intent": "plan",
+    "category": "Not specified",
+    "subject": "Patient/123456",
+    "description": "Not specified",
+    "period": "Not specified",
+    "activity": {
+      "steps": "Combination oral contraceptive pill (ethinyl estradiol and drospirenone), Spironolactone 100 mg daily, Metformin 500 mg twice daily, Lifestyle changes (diet, exercise, weight management), Referral to dermatologist for hair removal options, Referral to mental health counselor",
+      "medications": "Not specified",
+      "followUps": "Follow-up appointment in 3 months"
+    }
+  }
+}
