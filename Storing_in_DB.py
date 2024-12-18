@@ -5,7 +5,7 @@ from langchain_openai import ChatOpenAI
 from langchain.schema import HumanMessage
 
 # PostgreSQL Connection Parameters
-DB_URL = "postgresql+psycopg2://neondb_owner:ReWXfko5LF1B@ep-white-snowflake-a5kjzept.us-east-2.aws.neon.tech/neondb"
+DB_URL = "your_neon_console_connection_parameters"
 
 # Connect to PostgreSQL Database using SQLAlchemy
 engine = create_engine(DB_URL)
