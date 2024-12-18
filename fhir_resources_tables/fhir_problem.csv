@@ -1,0 +1,2 @@
+"id","clinicalstatus","verificationstatus","code","severity","patient","onset","note","evidence"
+"456789","active","confirmed","Peptic ulcer disease (PUD) likely caused by Helicobacter pylori infection","Not specified","John Doe","Not specified","Not specified","Not specified"

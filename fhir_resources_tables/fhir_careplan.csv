@@ -1,0 +1,2 @@
+"id","status","intent","category","subject","description","period","activity_steps","activity_medications","activity_followups"
+"901234","active","plan","Not specified","John Doe","Treatment plan for Peptic Ulcer Disease","Not specified","[""Take prescribed medications as directed"", ""Follow bland, low-acid diet, avoiding irritants"", ""Practice stress management techniques"", ""Attend follow-up visit in 2 weeks""]","[""Pantoprazole"", ""Clarithromycin"", ""Amoxicillin"", ""Ferrous sulfate""]","Not specified"
