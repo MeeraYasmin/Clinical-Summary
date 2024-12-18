@@ -1,0 +1,68 @@
+**Patient Demographics:**
+- Name: Michael Grant
+- Age: 37 years old
+- Gender: Male
+- Date of Birth: Not provided
+
+**Chief Complaint:**
+- Rattlesnake bite to the left ankle while hiking in a remote area
+
+**History of Present Illness:**
+- Presented 45 minutes post-bite with intense pain, swelling, and burning sensation
+- Localized erythema, ecchymosis, and significant edema extending to the mid-calf
+- Systemic symptoms included mild tachycardia, nausea, and dizziness
+
+**Past Medical History:**
+- Last tetanus vaccination more than 5 years ago
+
+**Family Medical History:**
+- Not provided
+
+**Social History:**
+- Not provided
+
+**Clinical Findings:**
+- Slightly prolonged PT/INR and thrombocytopenia
+- Envenomation confirmed by venom detection assay
+- Normalization of platelet count and coagulation parameters after treatment
+
+**Diagnosis:**
+- Rattlesnake envenomation
+
+**Treatment Plan:**
+- Administered CroFab antivenom
+- IV morphine for pain control
+- Limb immobilization and elevation
+- Serial monitoring of lab parameters every 6 hours
+- Wound care with topical antibiotic ointment
+- Tetanus booster and oral cephalexin prescribed on discharge
+- Follow-up with primary care physician scheduled
+
+**Procedures Performed:**
+- Venom detection assay
+- Administration of CroFab antivenom
+- Serial monitoring of lab parameters
+
+**Allergies:**
+- Not provided
+
+**Progress Notes:**
+- Significant improvement in swelling and pain over 48 hours
+- No evidence of compartment syndrome or progressive systemic effects
+- Scheduled follow-up with primary care physician
+
+**Medications:**
+- CroFab antivenom (initial bolus of 4 vials over 1 hour)
+- IV morphine for pain control
+- Oral cephalexin (500 mg twice daily)
+- Acetaminophen for residual pain
+
+**Prognosis:**
+- Excellent prognosis given timely administration of antivenom and lack of severe complications
+- Advised to return to the emergency department if any signs of worsening symptoms
+
+**Additional Notes:**
+- Educated on snake safety and advised to avoid strenuous activities for 2 weeks
+
+**Practitioner Details:**
+- Not provided

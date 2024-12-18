@@ -1,0 +1,69 @@
+1. Patient Demographics:
+- Name: Ethan Parker
+- Age: 5 years old
+- Gender: Male
+- Date of Admission: November 20, 2024
+
+2. Chief Complaint:
+- Persistent high-grade fever of 102–104°F for over 8 days
+- Profound fatigue, pallor, marked weakness
+- Difficulty staying awake, decreased oral intake, noticeable weight loss
+- Night sweats, occasional joint pain
+
+3. History of Present Illness:
+- Symptoms present for over a month
+- No reports of rashes, bleeding, or bruising
+
+4. Past Medical History:
+- No specific details provided
+
+5. Family Medical History:
+- No specific details provided
+
+6. Social History:
+- No specific details provided
+
+7. Clinical Findings:
+- Frail, listless child with tachycardia (pulse 135 bpm)
+- Mild hepatosplenomegaly
+- Anemia (hemoglobin 8.4 g/dL), thrombocytopenia, elevated white blood cell counts
+- Elevated inflammatory markers (CRP 68 mg/L, ESR 72 mm/hr)
+
+8. Diagnosis:
+- Initial concern for hematologic malignancy such as leukemia
+- Preliminary bone marrow analysis ruled out leukemia initially
+
+9. Treatment Plan:
+- Broad-spectrum antibiotics (ceftriaxone 50 mg/kg IV once daily)
+- Antifungal coverage with fluconazole
+- Nutritional support with high-calorie, protein-rich snacks
+- Discharge medications: oral amoxicillin-clavulanate, acetaminophen
+
+10. Procedures Performed:
+- Attempted bone marrow aspiration
+- Surgical intervention to remove lodged biopsy needle
+
+11. Allergies:
+- No known allergies mentioned
+
+12. Progress Notes:
+- Fever gradually declined post-surgery
+- Improved appetite and energy levels
+- Vital signs stabilized by hospital day 6
+
+13. Medications:
+- Ceftriaxone, fluconazole, oral amoxicillin-clavulanate, acetaminophen
+
+14. Prognosis:
+- Clinical improvement seen, discharged in stable condition
+- Pending further diagnostics for underlying cause
+
+15. Additional Notes:
+- Follow-up appointments scheduled with hematology and infectious disease specialists
+- Advanced molecular testing planned to identify potential underlying conditions
+
+16. Practitioner Details:
+- Pediatric hematologist consulted for follow-up
+- Surgical team performed needle removal under general anesthesia
+
+Overall, Ethan Parker, a 5-year-old male, presented with a persistent high-grade fever, fatigue, weight loss, and other concerning symptoms. Initial concerns for leukemia were ruled out, and he showed improvement with treatment and surgical intervention. Further diagnostics and follow-up appointments are planned to determine the underlying cause of his illness.
