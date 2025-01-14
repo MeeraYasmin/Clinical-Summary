@@ -1,0 +1,9 @@
+Confidence Score between 'medical_data2.txt' and 'Summary_data2.txt': 0.9339
+Confidence Score between 'medical_data3.txt' and 'Summary_data3.txt': 0.9523
+Confidence Score between 'medical_data4.txt' and 'Summary_data4.txt': 0.9473
+Confidence Score between 'medical_data5.txt' and 'Summary_data5.txt': 0.9566
+Confidence Score between 'medical_data6.txt' and 'Summary_data6.txt': 0.9476
+Confidence Score between 'medical_data7.txt' and 'Summary_data7.txt': 0.9502
+Confidence Score between 'medical_data8.txt' and 'Summary_data8.txt': 0.9659
+Confidence Score between 'medical_data9.txt' and 'Summary_data9.txt': 0.9663
+Confidence Score between 'medical_data10.txt' and 'Summary_data10.txt': 0.9505
