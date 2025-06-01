@@ -1,0 +1,73 @@
+1. Patient Demographics:
+   - Name: Emily Carter
+   - Age: 21 years old
+   - Gender: Female
+
+2. Chief Complaint:
+   - Persistent heavy dandruff, progressive hair thinning, significant hair fall
+   - Frequent acne breakouts on face and neck
+
+3. History of Present Illness:
+   - Symptoms present for the past year
+   - Diffuse hair loss, increased shedding during washing and brushing
+   - Itchy, flaky scalp with redness around hairline and crown
+   - Worsening acne breakouts with painful, inflamed lesions on cheeks, jawline, and neck
+   - Irregular menstrual cycles, increased stress due to college, frequent use of styling products and heat tools on hair
+
+4. Past Medical History:
+   - Not specified
+
+5. Family Medical History:
+   - Not specified
+
+6. Social History:
+   - Increased stress due to college
+   - Frequent use of styling products and heat tools on hair
+
+7. Clinical Findings:
+   - Diffuse hair thinning without bald patches
+   - Erythematous, flaky plaques on scalp indicative of seborrheic dermatitis
+   - Facial and neck acne with comedones, papules, pustules, and hyperpigmentation
+   - No signs of hirsutism or hyperandrogenism
+   - Body weight within a healthy range
+
+8. Diagnosis:
+   - Seborrheic dermatitis of the scalp
+   - Telogen effluvium secondary to stress and potential nutritional deficiencies
+   - Moderate inflammatory acne
+
+9. Treatment Plan:
+   - Medicated ketoconazole 2% shampoo twice weekly for 4 weeks
+   - Topical 2% minoxidil solution for hair regrowth
+   - Biotin and zinc supplements for hair loss
+   - Topical benzoyl peroxide 5% gel and tretinoin 0.025% cream for acne
+   - Oral doxycycline 100 mg twice daily for 3 months for acne
+
+10. Procedures Performed:
+   - Basic laboratory tests including thyroid function and iron studies
+   - Hormonal panels including testosterone and DHEAS
+
+11. Allergies:
+   - Not mentioned in the text
+
+12. Progress Notes:
+   - Follow-up scheduled in 8 weeks to assess treatment response and review lab results
+   - Advised to monitor for side effects and report any worsening symptoms
+
+13. Medications:
+   - Ketoconazole 2% shampoo (twice weekly for 4 weeks)
+   - Topical minoxidil 2% solution
+   - Biotin and zinc supplements
+   - Benzoyl peroxide 5% gel
+   - Tretinoin 0.025% cream
+   - Doxycycline 100 mg (twice daily for 3 months)
+
+14. Prognosis:
+   - Favorable prognosis for improved scalp and skin health with adherence to treatment plan
+
+15. Additional Notes:
+   - Lifestyle modifications include avoiding harsh styling practices, excessive heat, and tight hairstyles
+   - Stress management strategies recommended for overall treatment plan
+
+16. Practitioner Details:
+   - Not specified

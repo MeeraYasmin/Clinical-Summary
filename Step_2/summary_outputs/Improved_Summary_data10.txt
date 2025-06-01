@@ -1,0 +1,73 @@
+1. Patient Demographics:
+   - Name: Michael Grant
+   - Age: 37 years old
+   - Gender: Male
+   - Date of Birth (Inferred): Approximately 1987
+
+2. Chief Complaint:
+   - Rattlesnake bite to the left ankle while hiking
+
+3. History of Present Illness:
+   - Michael presented with immediate intense pain at the bite site, progressive swelling, and burning sensation up his leg.
+   - Localized erythema, ecchymosis, and significant edema extending to the mid-calf.
+   - Systemic symptoms included mild tachycardia, nausea, and dizziness.
+   - No signs of severe envenomation such as coagulopathy or respiratory distress.
+
+4. Past Medical History:
+   - Last tetanus vaccination more than 5 years ago.
+
+5. Family Medical History:
+   - Not mentioned in the text.
+
+6. Social History:
+   - Michael was hiking in a remote area when the incident occurred.
+
+7. Clinical Findings:
+   - Mild tachycardia (pulse 105 bpm)
+   - Thrombocytopenia (platelets 110,000/μL)
+   - Localized erythema, ecchymosis, and significant edema
+   - Slightly prolonged PT/INR indicating mild coagulopathy
+
+8. Diagnosis:
+   - Rattlesnake envenomation
+   - Mild coagulopathy
+   - Thrombocytopenia
+
+9. Treatment Plan:
+   - CroFab antivenom therapy with initial bolus and maintenance dosing
+   - IV morphine for pain control
+   - Tetanus booster
+   - Topical antibiotic ointment for wound care
+   - 7-day course of oral cephalexin (500 mg twice daily)
+   - Acetaminophen for pain
+   - Follow-up with primary care physician in one week
+
+10. Procedures Performed:
+   - Venom detection assay
+   - Serial monitoring of lab parameters every 6 hours
+   - Tetanus booster administration
+
+11. Allergies:
+   - Not mentioned in the text.
+
+12. Progress Notes:
+   - Swelling and pain improved significantly over 48 hours.
+   - Normalization of platelet count and coagulation parameters.
+   - No evidence of compartment syndrome or progressive systemic effects.
+
+13. Medications:
+   - CroFab antivenom
+   - IV morphine
+   - Oral cephalexin (500 mg twice daily) for 7 days
+   - Acetaminophen as needed for pain
+
+14. Prognosis:
+   - Excellent prognosis given timely antivenom administration and lack of severe complications.
+   - Monitoring for delayed serum sickness advised.
+
+15. Additional Notes:
+   - Michael educated on snake safety and wound care instructions.
+   - Advised to avoid strenuous activities for 2 weeks.
+
+16. Practitioner Details:
+   - Not specified.

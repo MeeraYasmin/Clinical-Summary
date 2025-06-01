@@ -1,0 +1,69 @@
+1. Patient Demographics:
+   - Name: Emily Carter
+   - Age: 16 years old
+   - Gender: Female
+   - Date of Birth: Not specified
+
+2. Chief Complaint:
+   - Progressive thoracolumbar scoliosis with significant back pain and noticeable changes in posture
+
+3. History of Present Illness:
+   - Detected at age 12 during routine school screening
+   - Symptoms worsened over the past year
+   - Back pain exacerbated by prolonged standing or physical activity
+   - Right shoulder higher than left, asymmetric clothing fit
+   - No neurological symptoms reported
+
+4. Past Medical History:
+   - Unremarkable, no prior surgeries or chronic illnesses
+   - Reached menarche at age 13
+   - Risser score of 3 indicating nearing skeletal maturity
+
+5. Family Medical History:
+   - No family history of scoliosis or spinal deformities mentioned
+
+6. Social History:
+   - Not mentioned in the text
+
+7. Clinical Findings:
+   - Pronounced right thoracic rib hump on forward bending
+   - S-shaped curve in the spine
+   - Standing scoliosis X-rays: right thoracic curve of 52 degrees, left lumbar curve of 38 degrees
+   - Preoperative MRI normal, ruling out intraspinal anomalies
+
+8. Diagnosis:
+   - Idiopathic adolescent scoliosis
+   - Suspected and confirmed based on clinical findings and imaging results
+
+9. Treatment Plan:
+   - Posterior spinal fusion with instrumentation from T5 to L3 on November 22, 2024
+   - Multimodal pain control regimen postoperatively
+   - Early physical therapy for safe mobility techniques
+   - Thoracolumbar brace for additional support
+   - Detailed postoperative care instructions provided at discharge
+
+10. Procedures Performed:
+   - Posterior spinal fusion with instrumentation from T5 to L3 on November 22, 2024
+
+11. Allergies:
+   - Not mentioned in the text
+
+12. Progress Notes:
+   - Discharged on November 27, 2024, in stable condition
+   - Excellent alignment and positioning of pedicle screws and rods on follow-up X-rays
+
+13. Medications:
+   - Intravenous acetaminophen, ketorolac, and PCA with morphine postoperatively
+   - Transitioned to oral oxycodone and acetaminophen
+   - Prescription for outpatient physical therapy
+
+14. Prognosis:
+   - Excellent prognosis with significant improvement in spinal alignment, reduced back pain, and prevention of further curve progression
+   - Emphasized importance of adherence to follow-up appointments and physical therapy for optimal outcomes
+
+15. Additional Notes:
+   - Activity restrictions to avoid heavy lifting, bending, or twisting for the next 3 months
+   - Gradual return to normal activities and sports after clearance by care team
+
+16. Practitioner Details:
+   - Not specified

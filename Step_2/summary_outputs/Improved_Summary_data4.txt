@@ -1,0 +1,69 @@
+1. Patient Demographics:
+   - Name: Sarah Miller
+   - Age: 21 years old
+   - Gender: Female
+
+2. Chief Complaint:
+   - Excessive body and facial hair growth
+   - Irregular menstrual cycles
+
+3. History of Present Illness:
+   - Symptoms worsening over the past 2 years
+   - Coarse, dark hair on upper lip, chin, chest, and lower abdomen
+   - Irregular menstrual cycles every 2-3 months since age 14
+   - Emotional distress about appearance
+
+4. Past Medical History:
+   - Mild asthma managed with albuterol inhaler as needed
+
+5. Family Medical History:
+   - No family history of hirsutism, endocrine disorders, or early balding in female relatives
+
+6. Social History:
+   - Not mentioned in the text.
+
+7. Clinical Findings:
+   - BMI: 26.3
+   - Moderate hirsutism (Ferriman-Gallwey score of 15)
+   - Mild acne on back and shoulders
+   - Elevated serum total testosterone (85 ng/dL)
+   - Slightly elevated DHEAS levels
+   - Normal FSH and LH levels with slightly elevated LH-to-FSH ratio
+   - Mildly increased fasting insulin levels
+   - Pelvic ultrasound showing multiple small ovarian follicles bilaterally
+
+8. Diagnosis:
+   - Suspected: Polycystic ovary syndrome (PCOS)
+   - Confirmed: PCOS
+
+9. Treatment Plan:
+   - Combination oral contraceptive pill (ethinyl estradiol and drospirenone) for menstrual regulation and androgen reduction
+   - Spironolactone 100 mg daily as an anti-androgen
+   - Metformin 500 mg twice daily for insulin sensitivity
+   - Lifestyle changes: low-glycemic-index diet, regular physical activity, weight management
+   - Referral to dermatologist for hair removal options
+   - Referral to mental health counselor
+
+10. Procedures Performed:
+    - Pelvic ultrasound
+
+11. Allergies:
+    - Not mentioned in the text.
+
+12. Progress Notes:
+    - Follow-up appointment scheduled in 3 months
+
+13. Medications:
+    - Combination oral contraceptive pill (ethinyl estradiol and drospirenone)
+    - Spironolactone 100 mg daily
+    - Metformin 500 mg twice daily
+
+14. Prognosis:
+    - Gradual improvement expected in hirsutism with treatment
+    - Emphasis on patience and consistency in achieving treatment goals
+
+15. Additional Notes:
+    - Importance of adherence to medications, lifestyle changes, and follow-up care
+
+16. Practitioner Details:
+    - Not specified.

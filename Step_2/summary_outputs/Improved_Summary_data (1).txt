@@ -1,0 +1,57 @@
+1. Patient Demographics:
+   - Name: John Doe
+   - Age: 44 years old
+   - Gender: Male
+   - Date of Birth (Inferred): Approximately 1980
+
+2. Chief Complaint:
+   - Epigastric discomfort, nausea, occasional vomiting
+
+3. History of Present Illness:
+   - 2-week history of epigastric discomfort, burning sensation, intermittent in nature, exacerbated by meals, unintentional weight loss of 8 pounds over the last month, no melena, hematemesis, or black stools
+
+4. Past Medical History:
+   - Well-controlled hypertension
+   - Mild gastroesophageal reflux disease (GERD) with occasional antacid use
+
+5. Family Medical History: Not mentioned in the text.
+
+6. Social History: Not mentioned in the text.
+
+7. Clinical Findings:
+   - Mild anemia (Hemoglobin: 11.2 g/dL)
+   - Positive serum H. pylori IgG test
+   - Upper endoscopy findings: 1.5 cm duodenal ulcer with surrounding erythema
+
+8. Diagnosis:
+   - Peptic ulcer disease (PUD) likely caused by Helicobacter pylori infection
+
+9. Treatment Plan:
+   - Pantoprazole 40 mg daily for acid suppression
+   - Clarithromycin 500 mg twice daily and amoxicillin 1 g twice daily for 14 days for H. pylori eradication
+   - Iron supplements (ferrous sulfate 325 mg daily)
+   - Bland, low-acid diet, stress management, lifestyle modifications
+
+10. Procedures Performed:
+   - Upper endoscopy on November 21, 2024
+
+11. Allergies: Not mentioned in the text.
+
+12. Progress Notes:
+   - Condition improved steadily with pain relief, no complications observed
+   - Stable blood pressure, no changes to antihypertensive medications
+
+13. Medications:
+   - Pantoprazole 40 mg daily for 8 weeks, with possible tapering
+   - Clarithromycin 500 mg twice daily and amoxicillin 1 g twice daily for 14 days
+   - Iron supplements (ferrous sulfate 325 mg daily)
+
+14. Prognosis:
+   - Full recovery expected with adherence to medications and dietary changes
+   - Importance of stress management and lifestyle modifications emphasized
+
+15. Additional Notes:
+   - Discharged on November 28, 2024, in stable condition
+   - Follow-up visit scheduled with gastroenterology in 2 weeks
+
+16. Practitioner Details: Not specified.

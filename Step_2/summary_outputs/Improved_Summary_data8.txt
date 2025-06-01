@@ -1,0 +1,70 @@
+1. Patient Demographics:
+   - Name: Ethan Parker
+   - Age: 5 years old
+   - Gender: Male
+   - Date of Birth (Inferred): Approximately 2019
+   - Admission Date: November 20, 2024
+   - Discharge Date: November 28, 2024
+
+2. Chief Complaint:
+   - Persistent high-grade fever (102–104°F) for over 8 days
+   - Profound fatigue, pallor, marked weakness
+   - Difficulty staying awake, decreased oral intake, noticeable weight loss
+   - Night sweats, occasional joint pain
+
+3. History of Present Illness:
+   - Symptoms present for over a month
+   - Frail, listless child with tachycardia, mild hepatosplenomegaly
+   - Anemia (hemoglobin 8.4 g/dL), thrombocytopenia, elevated WBC with left shift
+   - Highly elevated inflammatory markers (CRP 68 mg/L, ESR 72 mm/hr)
+
+4. Past Medical History: Not mentioned in the text.
+
+5. Family Medical History: Not mentioned in the text.
+
+6. Social History: Not mentioned in the text.
+
+7. Clinical Findings:
+   - Anemia, thrombocytopenia, elevated WBC with left shift
+   - Tachycardia, mild hepatosplenomegaly
+   - Highly elevated inflammatory markers
+
+8. Diagnosis:
+   - Suspected hematologic malignancy (initially leukemia)
+   - Rule out infectious, autoimmune, or hematologic diseases
+
+9. Treatment Plan:
+   - Empirical broad-spectrum antibiotics (ceftriaxone)
+   - Antifungal coverage with fluconazole
+   - Nutritional support with high-calorie, protein-rich snacks
+   - Discharge medications: oral amoxicillin-clavulanate, acetaminophen
+   - Follow-up with pediatric hematologist and infectious disease specialists
+
+10. Procedures Performed:
+   - Bone marrow aspiration on November 21, 2024
+   - Surgical removal of lodged biopsy needle on November 21, 2024
+
+11. Allergies: Not mentioned in the text.
+
+12. Progress Notes:
+   - Fever gradually declined, appetite returned, energy improved
+   - Vital signs stabilized, more alert and interactive by hospital day 6
+   - Discharged in stable condition with strict follow-up instructions
+
+13. Medications:
+   - Ceftriaxone 50 mg/kg IV once daily
+   - Fluconazole
+   - Oral amoxicillin-clavulanate (45 mg/kg/day divided BID) for 7 days
+   - Acetaminophen for fever as needed
+
+14. Prognosis:
+   - Clinical improvement observed
+   - Further diagnostics and follow-up appointments scheduled
+
+15. Additional Notes:
+   - Underlying cause of illness remains undetermined
+   - Emphasis on ruling out rare infectious, autoimmune, or hematologic diseases
+
+16. Practitioner Details:
+   - Pediatric hematologist consulted for follow-up and further investigations
+   - Infectious disease specialists involved in follow-up care

@@ -1,0 +1,72 @@
+### 1. Patient Demographics
+- Name: Jane Smith
+- Age: 52 years old
+- Gender: Female
+
+### 2. Chief Complaint
+- Abnormal vaginal bleeding, primarily post-coital spotting
+- Intermittent pelvic pain radiating to lower back
+- Increased fatigue
+- Occasional urinary frequency with mild dysuria
+- Unintentional weight loss of approximately 10 pounds over 6 months
+
+### 3. History of Present Illness
+Jane presented with a 3-month history of abnormal vaginal bleeding, post-coital spotting, pelvic pain, fatigue, urinary symptoms, and unintentional weight loss. Menstrual history revealed irregular periods over the past year.
+
+### 4. Past Medical History
+- Chronic hypertension controlled with lisinopril
+- Significant smoking history of 20 pack-years; quit smoking 5 years ago
+
+### 5. Family Medical History
+- No family history of gynecological cancers
+- History of high-risk HPV infection identified in a Pap smear 7 years ago
+
+### 6. Social History
+- Former smoker with a significant smoking history
+- Limited access to care for routine screenings
+
+### 7. Clinical Findings
+- Pelvic examination: Friable, ulcerated, irregular mass on cervix with contact bleeding
+- Imaging: 4.5 cm cervical mass with parametrium involvement, no distant metastases, slightly enlarged para-aortic lymph node
+- Biopsy: Squamous cell carcinoma of the cervix, stage IIB
+
+### 8. Diagnosis
+- Suspected: Stage IIB cervical cancer
+- Confirmed: Squamous cell carcinoma of the cervix
+
+### 9. Treatment Plan
+- Concurrent chemoradiation therapy:
+  - External beam radiation therapy (EBRT) to pelvis over 5 weeks
+  - Weekly cisplatin infusions as radiosensitizer
+  - Brachytherapy with three high-dose-rate (HDR) sessions
+- Medications: Ondansetron, loperamide
+- Lifestyle changes: High-protein diet, smoking cessation counseling
+
+### 10. Procedures Performed
+- Pelvic examination
+- Imaging: Pelvic MRI, PET-CT
+- Biopsy
+- External beam radiation therapy (EBRT)
+- Brachytherapy with HDR sessions
+
+### 11. Allergies
+- Not mentioned in the text
+
+### 12. Progress Notes
+Jane showed improvement in pelvic pain and reduction in abnormal bleeding post-treatment. Discharged in stable condition with a detailed follow-up plan.
+
+### 13. Medications
+- Ondansetron for nausea
+- Loperamide for diarrhea
+- Cisplatin for chemoradiation therapy
+
+### 14. Prognosis
+Cautiously optimistic prognosis due to absence of distant metastases and timely initiation of treatment. Emphasis on adherence to follow-up care for monitoring and potential long-term side effects.
+
+### 15. Additional Notes
+- Education provided on condition, treatment plan, potential side effects
+- Referral to nutritionist, psycho-oncology counselor, cancer support group
+- Post-radiation pelvic rehabilitation plan with vaginal dilators
+
+### 16. Practitioner Details
+- Not specified
