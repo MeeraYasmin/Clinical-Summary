@@ -1,1 +1,0 @@
-Confidence Score between 'medical_data.txt' and 'Summary_data.txt': 0.9561
